@@ -2,6 +2,9 @@ import requests, json
 
 urls = 'https://www.instagram.com/graphql/query'
 
+# CJzoM8pBOqL
+# urls page
+
 short_code = input("plases enter a short code : ")
 variables = {"shortcode":short_code,"include_reel":True,"first":50}
 
