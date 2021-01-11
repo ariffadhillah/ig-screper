@@ -5,7 +5,6 @@ urls = 'https://www.instagram.com/graphql/query'
 short_code = 'CJb0J9nhovF'
 query_hash = 'bc3296d1ce80a24b1b6e40b1e72903f5'
 
-
 end_cursor = ''
 count = 0
 counter_file = 1
